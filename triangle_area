@@ -1,8 +1,0 @@
-#read side
-triangle_side = float(input())
-# read height
-triangle_side = float(input())
-#calculate area and save the variable
-triangle area = (triangle_side *triangle_height) / 2
-#format and print
-print(f"(triangle_area:.2f)")
